@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Cotognomo/Cotognomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Fede, a Technical Sound Designer based in Berlin.
 
-Here are some ideas to get you started:
+I create sound effects and implement audio in video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a music background, but game audio brought out my more practical, logical, problem-solving side.
+
+My main tech stack is Unreal Engine 5, Unity, Blueprint, C++, C#, FMOD, and Wwise.
+
+My favourite tools are Unreal Engine, Visual Studio, and my beloved Focal Shape 65 speakers.
+
+I've got a bunch of pinned projects, but my favourite is Heartbeat-audio-contributions.
+
+Most of my work lives in private game projects, so the public repos are only part of the picture.
+
+If you want to learn more about me, I'm open to working with you.
+
+Fun Facts:
+
+* I love food, music, and games. Not necessarily in that order.
+* I can’t stand coriander on my food and milk in my coffe. 
+* Massive Attack is definitely my favourite band. 
