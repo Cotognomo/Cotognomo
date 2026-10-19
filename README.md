@@ -8,7 +8,7 @@ I have a music background, but game audio brought out my more practical, logical
 
 My main tech stack is Unreal Engine 5, Unity, Blueprint, C++, C#, FMOD, and Wwise.
 
-My favourite tools are Unreal Engine, Visual Studio, and my beloved Focal Shape 65 speakers.
+My favourite tools are Unreal Engine, Visual Studio, and my beloved Focal Shape 65 monitors.
 
 I've got a bunch of pinned projects, but my favourite is Heartbeat-audio-contributions.
 
